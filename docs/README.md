@@ -1,7 +1,7 @@
-# 最迷人的二营长
+# Welcome to myblogs~
 
-> [个人博客](https://blog.csdn.net/m0_37965018)
+> [个人博客](https://blog.csdn.net/chenmo2019)
 
 
-> [GitHub](https://github.com/Corefo/ "github")
+> [GitHub](https://github.com/chenmooooooo "github")
 
