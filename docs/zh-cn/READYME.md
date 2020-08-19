@@ -6,5 +6,4 @@
 > [GitHub](https://github.com/chenmooooooo "github")
 
 
-> [王垠](http://www.yinwang.org "当然我在扯淡")
-
+> [王垠的博客](http://www.yinwang.org "当然我在扯淡")
