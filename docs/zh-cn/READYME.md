@@ -7,3 +7,5 @@
 
 
 > [王垠的博客](http://www.yinwang.org "当然我在扯淡")
+
+> [Somebody'bolgs](./zh-cn/Navigator/navigator.md)
